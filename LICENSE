@@ -1,3 +1,5 @@
+License for the script itself
+
 The MIT License (MIT)
 
 Copyright (c) 2015 Nicholas Vander Ende
@@ -20,3 +22,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+Device Management Cmdlet License
+
+These .dlls and scripts are managed under licensing which can be reviewed here: https://gallery.technet.microsoft.com/scriptcenter/Device-Management-7fad2388
